@@ -1,0 +1,120 @@
+@keyframes oceania {
+    0% {left:0em;
+    position:absolute;}
+    
+    50%{left:59.5em;
+    position:absolute;}
+
+    100% {left:0em;
+        position:absolute;}
+
+    }
+@keyframes america{
+    0%{position:absolute;
+        left:22em;
+        top:0em;
+    }
+75%{position:absolute;
+left:59.5em;
+top:19.5em;}
+
+100%{position:absolute;
+    left:22em;
+    top:0em;
+   }   
+   }
+
+   @keyframes europa{
+    0%{position:absolute;
+   top:0em;}
+    50%{position:absolute;
+   top:19.5em;}
+    100%{position:absolute;
+   top:0em;}   
+   }
+
+
+   @keyframes africa{
+    0%{
+       position:absolute;
+       top:10em;
+       left:30em;
+}
+15%{position:absolute;
+    top:12.5em;
+    left:32.5em;
+width:5em;
+height:5em;}
+
+30%{position:absolute;
+    top:10em;
+    left:30em;
+    width:10em;
+    height:10em;}
+
+45%{position:absolute;
+    top:5em;
+    left:25em;
+    width:20em;
+    height:20em;}
+
+
+    60%{position:absolute;
+        top:10em;
+        left:30em;
+    width:10em;
+    height:10em;}
+    
+    75%{position:absolute;
+        top:0em;
+        left:20em;
+        width:40em;
+        height:40em;}
+    
+    90%{position:absolute;
+        top:10em;
+        left:30em;
+        width:10em;
+        height:10em;}
+    
+   100%{position:absolute;
+        top:10em;
+        left:30em;}   
+   }
+
+
+
+
+   @keyframes asia{
+    0%{
+       position:absolute;
+       top:0.5em;
+       left:0.5em;
+}
+/*20%{position:absolute;
+    top:-0.5em;
+    left:-0.5em;
+}*/
+
+40%{position:absolute;
+    top:0em;
+    left:59.5em;
+    }
+
+60%{position:absolute;
+    top:19.5em;
+    left:59.5em;
+}
+
+
+    80%{position:absolute;
+        top:19.5em;
+        left:-0em;
+    }
+   
+    
+   100%{position:absolute;
+        top:0em;
+        left:0em;}   
+   }
+
